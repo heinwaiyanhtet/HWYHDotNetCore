@@ -24,7 +24,7 @@ namespace HWYHDotNetCore.ConsoleApp.AdoDotNetExamples
 
             using SqlConnection connection = new SqlConnection(builder.ConnectionString);
             connection.Open();
-
+            
 
         }
 
