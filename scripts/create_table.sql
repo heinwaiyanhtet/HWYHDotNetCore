@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS `DotNetCoreMysql` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+CREATE DATABASE IF NOT EXISTS `dotnetcoremysql` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 GO
-USE `DotNetCoreMysql`;
+USE `dotnetcoremysql`;
 GO
 CREATE TABLE `Table_Blog` (
   `Blog_Id` int(11) NOT NULL,
